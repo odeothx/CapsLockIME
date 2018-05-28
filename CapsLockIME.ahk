@@ -1,4 +1,4 @@
-; Original Code
+﻿; Original Code
 ; http://www.autohotkey.co.kr/cgi/board.php?bo_table=script&wr_id=357
 ;
 
